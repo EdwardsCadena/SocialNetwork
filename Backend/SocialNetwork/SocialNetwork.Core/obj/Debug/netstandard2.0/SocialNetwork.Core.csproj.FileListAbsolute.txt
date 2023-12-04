@@ -1,9 +1,0 @@
-C:\Users\Ed\Documents\Repositorios\SocialNetwork\Backend\SocialNetwork\SocialNetwork.Core\bin\Debug\netstandard2.0\SocialNetwork.Core.deps.json
-C:\Users\Ed\Documents\Repositorios\SocialNetwork\Backend\SocialNetwork\SocialNetwork.Core\bin\Debug\netstandard2.0\SocialNetwork.Core.dll
-C:\Users\Ed\Documents\Repositorios\SocialNetwork\Backend\SocialNetwork\SocialNetwork.Core\bin\Debug\netstandard2.0\SocialNetwork.Core.pdb
-C:\Users\Ed\Documents\Repositorios\SocialNetwork\Backend\SocialNetwork\SocialNetwork.Core\obj\Debug\netstandard2.0\SocialNetwork.Core.csprojAssemblyReference.cache
-C:\Users\Ed\Documents\Repositorios\SocialNetwork\Backend\SocialNetwork\SocialNetwork.Core\obj\Debug\netstandard2.0\SocialNetwork.Core.AssemblyInfoInputs.cache
-C:\Users\Ed\Documents\Repositorios\SocialNetwork\Backend\SocialNetwork\SocialNetwork.Core\obj\Debug\netstandard2.0\SocialNetwork.Core.AssemblyInfo.cs
-C:\Users\Ed\Documents\Repositorios\SocialNetwork\Backend\SocialNetwork\SocialNetwork.Core\obj\Debug\netstandard2.0\SocialNetwork.Core.csproj.CoreCompileInputs.cache
-C:\Users\Ed\Documents\Repositorios\SocialNetwork\Backend\SocialNetwork\SocialNetwork.Core\obj\Debug\netstandard2.0\SocialNetwork.Core.dll
-C:\Users\Ed\Documents\Repositorios\SocialNetwork\Backend\SocialNetwork\SocialNetwork.Core\obj\Debug\netstandard2.0\SocialNetwork.Core.pdb
